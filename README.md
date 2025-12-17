@@ -2,10 +2,6 @@
 # ✨ Zotion 📝
 
 Zotion is a completely open-source, Notion-like text editor built with **Next.js** and **Convex**. It offers a clean, minimal, and mobile-friendly experience, with the flexibility to self-host using your own Convex account.
----
-## Hosted At
-
-You can check out a live deployment of Zotion here: [zotion.pysn.space](https://zotion.pysn.space)
 
 ---
 
@@ -80,7 +76,3 @@ Zotion is an open-source project, and I welcome contributions from the community
 
 * **Bug Fixes:** Found a bug? Please open an issue or submit a pull request with your fix.
 * **Feature Requests:** Have an idea for a new feature? I'd love to hear it! Open an issue to discuss your proposal.
-
----
-
-Made ❤️ by [pyschonoice](https://x.com/pyschonoice)
